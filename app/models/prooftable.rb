@@ -1,0 +1,2 @@
+class Prooftable < ApplicationRecord
+end
